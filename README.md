@@ -1,9 +1,11 @@
-## Olá, eu sou o Emanuel. Bem vindo ao meu Github!  <a href="https://github.com/Emanuel-Filipe" target="_blank"> <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" target="_blank"></a>
-
+## Olá, eu sou o Emanuel. Bem vindo ao meu Github!  
 - 🎓 Graduando Engenharia de Software pela Uninter.
 - 👨🏽‍💻 Estudando Desenvolvimento Mobile Android (Java e Kotlin) pela Digital House.
 - 🌱 Aprendendo Java, Kotlin, Python, SQL, HTML, CSS, Javascript, entre outras.
 - 🎊 Viva a sabedoria.
+ 
+ <a href="https://github.com/Emanuel-Filipe" target="_blank"> <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" target="_blank"></a>
+
  
 
 <div align="center">
