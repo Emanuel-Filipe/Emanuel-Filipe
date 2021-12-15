@@ -21,7 +21,7 @@
   
   
   
-<img align="center" alt="Emanuel-animation" height="600" style="border-radius:450px;" src="https://radio.x-team.com/_next/static/media/nightcity.e8b14ac4.gif">
+<img align="center" alt="Emanuel-animation" height="500" style="border-radius:450px;" src="https://radio.x-team.com/_next/static/media/nightcity.e8b14ac4.gif">
  
   
   
