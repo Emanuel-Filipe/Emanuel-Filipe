@@ -1,5 +1,10 @@
-## Olá, eu sou o Emanuel. Bem vindo ao meu Github!
-## Sou Desenvolvedor  <a href="https://github.com/Emanuel-Filipe" target="_blank"> <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" target="_blank"></a>
+## Olá, eu sou o Emanuel. Bem vindo ao meu Github!  <a href="https://github.com/Emanuel-Filipe" target="_blank"> <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" target="_blank"></a>
+
+- 🎓 Graduando Engenharia de Software pela Uninter.
+- 👨🏽‍💻 Estudando Desenvolvimento Mobile Android (Java e Kotlin) pela Digital House.
+- 🌱 Aprendendo Java, Kotlin, Python, SQL, HTML, CSS, Javascript, entre outras.
+- 🎊 Viva a sabedoria.
+ 
 
 <div align="center">
   <a href="https://github.com/Emanuel-Filipe">
@@ -7,13 +12,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Filipe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Emanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emanuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Emanuel-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Emanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Emanuel-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Emanuel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Emanuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
