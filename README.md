@@ -17,6 +17,10 @@
 </div>
 
 ##
+  
+<img align="right" alt="Emanuel-animation" height="300" style="border-radius:150px;" src="https://radio.x-team.com/_next/static/media/nightcity.e8b14ac4.gif">
+  
+##
  
 <div> 
   
